@@ -20,6 +20,9 @@ Welcome to Shoe Haven! Your ultimate destination for discovering the latest tren
 
 ![Shoe-Haven](https://github.com/user-attachments/assets/b76d40dc-f0e9-481d-9ae5-0f15208db1a1)
 
+## Contact 📩
+
+If you have any Queries, feedback and Any Questions please reach out to us at paulsantanu968@gamil.com
 
 
 
